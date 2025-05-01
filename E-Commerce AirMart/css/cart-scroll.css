@@ -1,0 +1,16 @@
+#cart {
+  overflow-x: auto;
+}
+
+#cart table tbody {
+  display: block;
+  max-height: 400px;
+  overflow-y: auto;
+  width: 100%;
+}
+
+#cart table thead, #cart table tbody tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}

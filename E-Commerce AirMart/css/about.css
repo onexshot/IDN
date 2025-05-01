@@ -1,0 +1,38 @@
+/* About Page */
+
+  #about-head {
+    display: flex;
+    align-items: center;
+  }
+  
+  #about-head img {
+    width: 50%;
+    height: auto;   
+  }
+  
+  #about-head div {
+    padding-left: 40px;
+  }
+  
+  #about-app {
+    text-align: center;
+  }
+  
+  #about-app .video {
+    width: 70%;
+    height: auto;
+    margin: 30px auto 0 auto;
+  }
+  
+  #about-app .video video {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+  }
+  
+  
+ 
